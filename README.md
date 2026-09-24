@@ -37,7 +37,7 @@ Dataset link: https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset
 | `ecommerce_sales_analysis.ipynb` | Analysis notebook (code and charts) |
 | `ecommerce_sales_analytics_5000.csv` | Dataset |
 | `requirements.txt` | Required Python libraries |
-| `YourName_ProjectReport.docx` | Project report |
+| `Project_Report.docx` | Project Report |
 
 ## Setup and Run
 
